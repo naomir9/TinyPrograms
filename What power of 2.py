@@ -1,4 +1,4 @@
-# Prints the exp of x to base 2
+# Prints the exp of x to base 2.
 
 power = int(input("what power of two?"))
 x = 2**power
