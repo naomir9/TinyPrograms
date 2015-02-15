@@ -1,4 +1,4 @@
-# Prints exponents
+# Prints exponents.
 base = 2
 power = 1
 while power < 8:
