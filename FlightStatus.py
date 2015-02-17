@@ -1,4 +1,4 @@
-# Shows the flight status
+# Shows flight status
 
 #Shows flight status given two time slots.
 def flight_status(scheduled_time, estimated_time):
