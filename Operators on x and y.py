@@ -10,4 +10,3 @@ print("%f // %f = %.2f" % (x, y, (x // y)))
 print("%f ** %f = %.2f" % (x, y, (x ** y)))
 print("%f %% %f = %.2f" % (x, y, (x % y)))
 print("Done!")
-
